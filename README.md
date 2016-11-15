@@ -20,7 +20,7 @@ If you have any problem with the instalation of the plugin please create an issu
 ###NB: This method doesn't work for this plugin only, you can install a lot of plugin Wordpress just by following these instructions ! :)
 
 
-##How it work ?
+##How does it work ?
 When you come to any page of your wordpress website, a dialog window (using JQuery) will be display on your screen. This window is (of course and thanks God) closable but also dragable ... And ... That's all, this plugin do nothing more than that :p
 
 ##What does it look like
