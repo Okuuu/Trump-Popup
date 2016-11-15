@@ -6,19 +6,19 @@ Don't take this plugin too seriously, mostly a funny feature more than a useful 
 
 
 ##How to install it ?
-```
-- Download this repository and zip it
-- Go to your wordpress website in the admin panel then extensions then add
-- Click on the up button "put an extension online" then browse and finnaly to install
+
+- Download this repository and [zip it] (http://puu.sh/sjzsp/d6bfe1b6ba.png)
+- Go to your wordpress website in the admin panel then extensions then [add] (http://puu.sh/sjzvX/23d059f8ba.png)
+- Click on the up button "put an extension online" then [browse](http://puu.sh/sjzAA/a72a59cd97.png) and finnaly on install
 - Let Wordpress work (could take a few seconds)
-- If there isn't any problem you can click on "activate the extension"
-```
+- If there isn't any problem you can click on ["activate the extension"](http://puu.sh/sjzFY/411fdd40a7.png)
+
 
 If you have any problem with the instalation of the plugin please create an issue [In the issue section](https://github.com/Okuuu/trumpPopup/issues) I will try to answer as soon as possible ;)
 
-```
-NB: This method doesn't work for this plugin only, you can install a lot of plugin Wordpress just by following these instructions ! :)
-```
+
+###NB: This method doesn't work for this plugin only, you can install a lot of plugin Wordpress just by following these instructions ! :)
+
 
 ##How it work ?
 When you come to any page of your wordpress website, a dialog window (using JQuery) will be display on your screen. This window is (of course and thanks God) closable but also dragable ... And ... That's all, this plugin do nothing more than that :p
