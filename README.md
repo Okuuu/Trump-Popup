@@ -34,3 +34,5 @@ Actualy .. I didn't coded this as an "anti-Trump" plugin but more like a "funny-
 
 ##Can we do something for this plugin ?
 Sure, if you have an idea which can improve this plugin don't hesitate to fork it or to create an issue [In the issue section](https://github.com/Okuuu/trumpPopup/issues) same if you find a bug or some enchancements which could improve this plugin, go in the issue section, it is here for that after all :D
+
+##TrumpPopup is a plugin made with love by Oku ♥
