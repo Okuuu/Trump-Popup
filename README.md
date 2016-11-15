@@ -4,6 +4,20 @@
 This is a plugin for Wordpress which display a popup with a countdown for when the Trump's mandate will end. 
 Don't take this plugin too seriously, mostly a funny feature more than a useful one ;p
 
+
+##How to install it ?
+```
+-Download this repository and zip it
+-Go to your wordpress website in the admin panel then extensions then add
+-Click on the up button "put an extension online" then browse and finnaly to install
+-Let Wordpress work (could take a few seconds)
+-If there isn't any problem you can click on "activate the extension"
+```
+
+If you have any problem with the instalation of the plugin please create an issue here https://github.com/Okuuu/trumpPopup/issues I will try to answer as soon as possible ;)
+
+NB: This method doesn't work for this plugin only, you can install a lot of plugin Wordpress just by following these instructions ! :)
+
 ##How it work ?
 When you come to any page of your wordpress website, a dialog window (using JQuery) will be display on your screen. This window is (of course and thanks God) closable but also dragable ... And ... That's all, this plugin do nothing more than that :p
 
