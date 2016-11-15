@@ -14,4 +14,7 @@ Here, take a look ! (http://puu.sh/siWx9/97c45ed9f7.jpg)
 This plugin use php (of course for a plugin Wordpress ...), JQuery for the window, javascript for the countdown, and some html and css (but sure you guest it ...)
 
 ##So ... This is an "Anti-Trump" plugin ?
-Actualy .. I didn't coded this as an "anti-Trump" plugin but more like a "funny-plugin" ... Which use Donald Trump I don't want to take part about this debate, I'm neither pro or anti-trump ;)
+Actualy .. I didn't coded this as an "anti-Trump" plugin but more like a "funny-plugin" ... Which use Donald Trump I don't want to take part about this debate, I'm neither pro or anti-Trump ;)
+
+##Can we do something for this plugin ?
+Sure, if you have an idea which can improve this plugin don't hesitate to fork it or to create an issue here : https://github.com/Okuuu/trumpPopup/issues same if you find a bug or some enchancements which could improve this plugin, go in the issue section, it is here for that after all :D
