@@ -26,7 +26,7 @@ When you come to any page of your wordpress website, a dialog window (using JQue
 ##What does it look like
 [Here, take a look !](http://puu.sh/siWx9/97c45ed9f7.jpg)
 
-##Which language it uses ?
+##Which languages it uses ?
 This plugin use php (of course for a plugin Wordpress ...), JQuery for the window, javascript for the countdown, and some html and css (but sure you guest it ...)
 
 ##So ... This is an "Anti-Trump" plugin ?
