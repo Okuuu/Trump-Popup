@@ -7,7 +7,7 @@ Don't take this plugin too seriously, mostly a funny feature more than a useful 
 
 ##How to install it ?
 
-- Download this repository and [zip it] (http://puu.sh/sjzsp/d6bfe1b6ba.png)
+- Download this repository by clicking on "download zip" above (clone or download => download zip)
 - Go to your wordpress website in the admin panel then extensions then [add] (http://puu.sh/sjzvX/23d059f8ba.png)
 - Click on the up button "put an extension online" then [browse](http://puu.sh/sjzAA/a72a59cd97.png) and finnaly on install
 - Let Wordpress work (could take a few seconds)
