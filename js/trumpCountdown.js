@@ -1,3 +1,5 @@
+//↓This code is about the popup, it's just a huge concatenation of a big html/css file ↓
+
 jQuery( function( $ ) {
     $("body").append( '<div id="trumpPopup">' +
         '<div id ="text">' +
@@ -37,6 +39,8 @@ jQuery( function( $ ) {
     })
 })
 
+
+//↓This code is about the clock↓
 var deadline = '2020-11-08'; //This is the end time of the countdown, can be change, not sure about the date tho, I just picked the same date as 2016 ... But in 2020 ;p
 
 
@@ -54,9 +58,7 @@ function getTimeRemaining(endtime){
         'seconds': seconds
     };
 }
-
-//not sure of this tho ..
-
+//↓This code is about the display of the clock↓
 function initializeClock(id, endtime){
     var clock = document.getElementById(id);
     var timeinterval = setInterval(function(){
@@ -72,5 +74,4 @@ function initializeClock(id, endtime){
         }
     },1000);
 }
-
 initializeClock('clockdiv', deadline);

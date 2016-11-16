@@ -15,19 +15,11 @@ Domain Path: /plugin1/plugin1.php
 defined( 'ABSPATH' )
 or die ( 'No direct load !' );
 
-/**
- * useful constants for plugin
- **/
 define( 'PLUGINTRUMP', plugin_dir_url( __FILE__ ) );
 define( 'PLUGINTRUMP_VERSION', '0.1' );
 
-/**
- * No need for explanation here => self explanatory
- * @author Julien Maury
- */
 function _trumpPlugin_enqueue_scripts(){
     wp_enqueue_script( 'pluginTrump', PLUGINTRUMP . 'js/trumpCountdown.js', [ 'jquery-ui-dialog' ], PLUGINTRUMP_VERSION, true );
     wp_enqueue_style( 'wp-jquery-ui-dialog' );
 }
-
 add_action( 'wp_enqueue_scripts', '_trumpPlugin_enqueue_scripts' );
