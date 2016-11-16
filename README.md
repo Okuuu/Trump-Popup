@@ -14,7 +14,7 @@ Don't take this plugin too seriously, mostly a funny feature more than a useful 
 - If there isn't any problem you can click on ["activate the extension"](http://puu.sh/sjzFY/411fdd40a7.png)
 
 
-If you have any problem with the instalation of the plugin please create an issue [In the issue section](https://github.com/Okuuu/trumpPopup/issues) I will try to answer as soon as possible ;)
+If you have any problem with the instalation of the plugin please create an issue [In the issue section](https://github.com/Okuuu/trumpPopup/issues) I will try to answer as soon as possible ;) (You can speak english but also french ;D )
 
 
 ###NB: This method doesn't work for this plugin only, you can install a lot of plugin Wordpress just by following these instructions ! :)
