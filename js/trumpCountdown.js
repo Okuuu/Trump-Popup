@@ -37,6 +37,10 @@ jQuery( function( $ ) {
         width:700,
         height:500
     })
+    $(window).click(function(){
+        $('.ui-dialog').hide(400);
+        $('.ui-widget-overlay').css('background', 'none');
+    })
 })
 
 
