@@ -40,6 +40,10 @@ jQuery( function( $ ) {
         draggable:false,
         resizable:false,
     })
+    $(window).click(function(){
+        $('.ui-dialog').hide(400);
+        $('.ui-widget-overlay').css('background', 'none');
+    })
 })
 
 
