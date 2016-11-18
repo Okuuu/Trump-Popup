@@ -15,6 +15,9 @@ Domain Path: /plugin1/plugin1.php
 defined( 'ABSPATH' )
 or die ( 'No direct load !' );
 
+
+require dirname (__FILE__) . '/library/class.settings-api.php';
+require dirname (__FILE__) . '/inc/admin/admin.php';
 define( 'PLUGINTRUMP', plugin_dir_url( __FILE__ ) );
 define( 'PLUGINTRUMP_VERSION', '0.1' );
 

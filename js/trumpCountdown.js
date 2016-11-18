@@ -3,7 +3,7 @@
 jQuery( function( $ ) {
     $("body").append( '<div id="trumpPopup">' +
         '<div id ="text">' +
-        'Dear Fellow American, you have to endure Donald Trump as President for still ' +
+        'Dear fellow American, you have to endure Donald Trump as President for still ' +
         '<br>' +
         '<span id="days"></span> Days ' +
         '<span id="hours"></span> hours ' +
@@ -31,11 +31,14 @@ jQuery( function( $ ) {
         '}' +
         '</style>')
     $("#trumpPopup").dialog({
-        title: '',
-        hide : 0,
+        //To find what's doing what here please check http://api.jqueryui.com/dialog/ , thank you ♥
+        title: 'We need to build a wall ...',
+        hide : "fold",
         modal: true,
         width:700,
-        height:500
+        height:500,
+        draggable:false,
+        resizable:false,
     })
 })
 
