@@ -8,10 +8,10 @@ Don't take this plugin too seriously, mostly a funny feature more than a useful 
 ## How to install it ?
 
 - Download this repository by clicking on "download zip" above (clone or download => download zip)
-- Go to your wordpress website in the admin panel then extensions then [add] (http://puu.sh/sjzvX/23d059f8ba.png)
-- Click on the up button "put an extension online" then [browse](http://puu.sh/sjzAA/a72a59cd97.png) and finnaly click on install
+- Go to your wordpress website in the admin panel then extensions then add
+- Click on the up button "put an extension online" then browse and finnaly click on install
 - Let Wordpress work (could take a few seconds)
-- If there isn't any problem you can click on ["activate the extension"](http://puu.sh/sjzFY/411fdd40a7.png), if there's a problem it will display you an error, you can repport it [in the issue section](https://github.com/Okuuu/trumpPopup/issues)
+- If there isn't any problem you can click on "activate the extension", if there's a problem it will display you an error, you can repport it [in the issue section](https://github.com/Okuuu/trumpPopup/issues)
 
 
 If you have any problem with the instalation of the plugin please create an issue [in the issue section](https://github.com/Okuuu/trumpPopup/issues) I will try to answer as soon as possible ;) (You can speak english but also french ;D )
@@ -22,9 +22,6 @@ If you have any problem with the instalation of the plugin please create an issu
 
 ## How does it work ?
 When you come to any page of your wordpress website, a dialog window (using JQuery) will be display on your screen. This window is (of course and thanks God) closable but also dragable ... And ... That's all, this plugin do nothing more than that :p
-
-## What does it look like
-[Here, take a look !](http://puu.sh/siWx9/97c45ed9f7.jpg)
 
 ## Which languages it uses ?
 This plugin use php (of course for a plugin Wordpress ...), JQuery for the window, javascript for the countdown, and some html and css (but sure you guest it ...)
